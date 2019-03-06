@@ -34,5 +34,5 @@ int main()
 	std::cout << bits << std::endl;
 	std::cout << "BIT 4: " << bits[3] << std::endl;
 	int test;
-    std::cout << "Hello World! \n"; 
+    std::cout << "Hello World!\n"; 
 }
