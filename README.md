@@ -1,2 +1,2 @@
 # Spacetime
-Algorithm libraries
+Algorithm exercises and implementations
