@@ -33,6 +33,6 @@ int main()
 	std::bitset<sizeof(float) * CHAR_BIT> bits(data.output);
 	std::cout << bits << std::endl;
 	std::cout << "BIT 4: " << bits[3] << std::endl;
-
-    std::cout << "Hello World!\n"; 
+	int test;
+    std::cout << "Hello World! \n"; 
 }
