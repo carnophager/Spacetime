@@ -190,13 +190,21 @@ void main07()
 	
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
+/*GeeksForGeeks is a great place to start.  But It is  recommended to master Recursion before jumping on to BackTracking; especially those problems of recursion that do not have a recursive formula given.
 
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+Examples - Print digits of a number in reverse order using Recursion.  Write Recursive function that tells if a given string is palindrome or not.  A Recursive function of binary search.
+
+Then gradually move to little complex problems - Solving a SuDoKu puzzle using recursion.  Given a 2D array (MAZE) - Print path to go from one end to another.  Given a matrix of alphabets -  Find a given word.
+
+crawling system of specific sites, data gathering
+
+support html crawling and othe input variants, as well as output postgre sql, sql, some basic nosql experience
+
+django - personal project, garbage collection,
+signals - scrappy
+model
+design patterns
+RESTful API
+
+
+By the end of above listed problems - BackTracking would be under your control.*/
